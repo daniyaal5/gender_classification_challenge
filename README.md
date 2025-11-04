@@ -27,3 +27,7 @@ Find 3 more classifiers from the sci-kit learn [documentation](http://scikit-lea
 ##Credits
 
 Credits for some of the code go to [chribsen](https://github.com/chribsen). I've merely created a wrapper to get people started easily.
+
+
+##Challenge Completed by Muhammad Daniyal Azam
+This code now contains 3 more classifiers from scikit-learn trained and tested.
