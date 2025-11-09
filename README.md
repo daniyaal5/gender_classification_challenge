@@ -30,4 +30,4 @@ Credits for some of the code go to [chribsen](https://github.com/chribsen). I've
 
 
 ##Challenge Completed by Muhammad Daniyal Azam
-This code now contains 3 more classifiers from scikit-learn trained and tested.
+This code now contains 3 more classifiers from scikit-learn trained and tested along with the best one stated.
